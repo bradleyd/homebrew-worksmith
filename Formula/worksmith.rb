@@ -1,8 +1,8 @@
 class Worksmith < Formula
   desc "Minimal terminal coding-agent harness that keeps weaker models on task"
   homepage "https://github.com/bradleyd/worksmith"
-  url "https://github.com/bradleyd/worksmith/releases/download/v0.3.0/worksmith-0.3.0-aarch64-apple-darwin.tar.gz"
-  sha256 "6e7f9802c8a87d8b6513a877cd8be1045665a16fdc64d70deb57ad5ccce0f9de"
+  url "https://github.com/bradleyd/worksmith/releases/download/v0.5.0/worksmith-0.5.0-aarch64-apple-darwin.tar.gz"
+  sha256 "bdea564ae6542a08c6be9a54f0c1d1388306a88dafcaa042b3b5f1f214720600"
   license "MIT"
 
   on_linux do
